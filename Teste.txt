@@ -1,1 +1,1 @@
-Integração do Visual Studio
+Integração do Visual Studio com o GitHUb
